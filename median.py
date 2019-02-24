@@ -34,6 +34,23 @@ countMedian([1, 2, 3, 5, 7, 4, 3, 4])
 
 
 
+def count_median(numbers):
+    numbers = sorted(numbers)
+    if 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
