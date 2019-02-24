@@ -36,7 +36,10 @@ countMedian([1, 2, 3, 5, 7, 4, 3, 4])
 
 def count_median(numbers):
     numbers = sorted(numbers)
-    if 
+    if len(numbers) % 2 = 0:
+        print((numbers[(len(numbers) \ 2) - 1]) + (numbers[len(numbers) \ 2]))
+    else:
+        print()
 
 
 
